@@ -7,7 +7,6 @@ def random_predict(number:int=np.random.randint(1,101)) ->int:
 
     Args:
         number (int, optional): слуайное число. Стандартное значение из np.random.randint(1,101).
-s
     Returns:
         int: количество попыток
     """
